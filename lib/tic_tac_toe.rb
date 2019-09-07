@@ -66,5 +66,6 @@ class TicTacToe
   
   def over?
     full? or won?
+  end
 
 end
