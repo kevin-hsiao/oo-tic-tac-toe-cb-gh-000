@@ -51,5 +51,8 @@ class TicTacToe
       "O"
     end
   end
+  
+  def won?
+    
 
 end
