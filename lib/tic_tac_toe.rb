@@ -80,7 +80,7 @@ class TicTacToe
       turn
     end
     if won?
-      puts ""
+      puts "Congratulations #{winner}!"
     else
       puts ""
     end
