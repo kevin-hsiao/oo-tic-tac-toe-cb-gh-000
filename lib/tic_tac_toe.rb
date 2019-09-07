@@ -69,6 +69,9 @@ class TicTacToe
   end
   
   def winner
-    
+    combo = won?
+    if !combo.nil
+      
+      
 
 end
