@@ -80,5 +80,10 @@ class TicTacToe
       turn
     end
     if won?
+      puts ""
+    else
+      puts ""
+    end
+  end
 
 end
