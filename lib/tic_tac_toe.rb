@@ -58,5 +58,6 @@ class TicTacToe
   
   def full?
     @board.none? {|spot| spot == " "}
+  end
 
 end
